@@ -2,20 +2,15 @@
 
 ### A Passionate Frontend Developer & Cybersecurity Enthusiast from Indonesia
 
-<div align="center">
-  <!-- Foto Profil (opsional, ganti URL dengan foto pribadi jika ada) -->
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dlanang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://twitter.com/zerobyteidn">
-    <img src="https://img.shields.io/twitter/follow/zerobyteidn?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/badge/Twitter-%40zerobyteidn-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Follow" />
   </a>
 </p>
+
 
 ---
 
@@ -41,19 +36,6 @@
 - 💬 Ask me about **Tech, Frontend, Security, and more**
 - 📫 Reach me at **dhimaslnwork@gmail.com**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://twitter.com/zerobyteidn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">
-  </a>
-  <a href="https://linkedin.com/in/dhimaslanang">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
-  </a>
-</div>
 
 ---
 
