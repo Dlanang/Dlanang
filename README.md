@@ -59,4 +59,4 @@
 
 
 ## ☕ My Activity
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Dlanang/Dlanang/output/github-contribution-grid-snake-dark.svg)
