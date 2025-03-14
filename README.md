@@ -11,7 +11,11 @@
   </a>
 </p>
 
-
+## 🎯 About Me
+- 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
+- 💬 Ask me about **Tech, Frontend, Security, and more**
+- 📫 Reach me at **dhimaslnwork@gmail.com**
+- ⚡ Fun fact: **Some bugs are just misunderstood features!**
 ---
 
 ## 🌟 GitHub Stats
@@ -25,17 +29,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
-
-## 🎯 About Me
-
-<div align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/about.png" alt="About Icon" width="48" height="48">
-</div>
-
-- 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
-- 💬 Ask me about **Tech, Frontend, Security, and more**
-- 📫 Reach me at **dhimaslnwork@gmail.com**
-- ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
 ---
 
@@ -55,11 +48,19 @@
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/zerobyteidn">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" />
+    <img src="https://iconduck.com/icons/10899/buy-me-a-coffee.svg" alt="Buy Me a Coffee" width="150" height="50"/>
   </a>
-  <a href="https://teer.id/dlanang">
-    <img src="https://teer.id/assets/images/logoteer.png" alt="Traktir Saya" width="150" height="50">
+  &nbsp;&nbsp;
+  <a href="https://trakteer.id/zerobyteidn">
+    <img src="https://trakteer.id/images/logo-trakteer.png" alt="Traktir Saya" width="150" height="50"/>
   </a>
 </div>
-
 ---
+
+
+## ☕ My Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dlanang/Dlanang/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dlanang/Dlanang/main/dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Dlanang/Dlanang/main/dist/github-snake.svg" />
+</picture>
