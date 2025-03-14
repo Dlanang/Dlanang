@@ -1,64 +1,83 @@
-```md
-## Hi 👋, I'm DHIMAS LN
-### A passionate frontend developer from Indonesia
+# Hi 👋, I'm DHIMAS LN
 
-![Profile Views](https://komarev.com/ghpvc/?username=dlanang&label=Profile%20views&color=0e75b6&style=flat)
+### A Passionate Frontend Developer & Cybersecurity Enthusiast from Indonesia
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/zerobyteidn?logo=twitter&style=for-the-badge)](https://twitter.com/zerobyteidn)
+<div align="center">
+  <!-- Foto Profil (opsional, ganti URL dengan foto pribadi jika ada) -->
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
+</div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dlanang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### 🌟 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlanang&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dlanang)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent)
-
----
-
-### 🎯 About Me
-- 🌱 I’m currently learning **Cybersecurity and Frontend Development**
-- 💬 Ask me about **Tech, Frontend, Security, and more**
-- 📫 Reach me at **dhimaslnwork@gmail.com**
-- ⚡ Fun fact: **I think some bugs can actually help me**
-
----
-
-### 🔗 Connect with Me
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/zerobyteidn)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/dhimaslanang)
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+<p align="center">
+  <a href="https://twitter.com/zerobyteidn">
+    <img src="https://img.shields.io/twitter/follow/zerobyteidn?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
 
-### ✅ QA & CI/CD Status
-[![Build Status](https://github.com/dlanang/your-repo/actions/workflows/main.yml/badge.svg)](https://github.com/dlanang/your-repo/actions)
-[![Test Coverage](https://img.shields.io/codecov/c/github/dlanang/your-repo)](https://codecov.io/gh/dlanang/your-repo)
-[![Code Quality](https://img.shields.io/lgtm/grade/javascript/github/dlanang/your-repo)](https://lgtm.com/projects/g/dlanang/your-repo/)
+## 🌟 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dlanang&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=dlanang" alt="GitHub Streak" />
+  </a>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
+
+## 🎯 About Me
+
+<div align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/about.png" alt="About Icon" width="48" height="48">
+</div>
+
+- 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
+- 💬 Ask me about **Tech, Frontend, Security, and more**
+- 📫 Reach me at **dhimaslnwork@gmail.com**
+- ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
 ---
 
-### 📌 Changelog & Contribution
-- Check out my latest updates in [CHANGELOG.md](https://github.com/dlanang/your-repo/blob/main/CHANGELOG.md)
-- Want to contribute? Read the [CONTRIBUTING.md](https://github.com/dlanang/your-repo/blob/main/CONTRIBUTING.md)
-- Track issues & roadmap in the [GitHub Project](https://github.com/dlanang/your-repo/projects)
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://twitter.com/zerobyteidn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">
+  </a>
+  <a href="https://linkedin.com/in/dhimaslanang">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+</div>
 
 ---
 
-### ☕ Support Me
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/zerobyteidn)
+## 🛠️ Tech Stack
 
-[![Traktir Saya](https://teer.id/assets/images/logoteer.png)](https://teer.id/dlanang)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+</div>
 
 ---
-```
 
+## ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/zerobyteidn">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://teer.id/dlanang">
+    <img src="https://teer.id/assets/images/logoteer.png" alt="Traktir Saya" width="150" height="50">
+  </a>
+</div>
+
+---
