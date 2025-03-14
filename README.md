@@ -1,6 +1,10 @@
 # Hi 👋, I'm DHIMAS LN
 
-### A Passionate Frontend Developer & Cybersecurity Enthusiast from Indonesia
+<div align="center">
+  <img src="img/dedek.gif" alt="Funny GIF" width="250" />
+</div>
+
+<h3 align="center">A Passionate Frontend Developer & Cybersecurity Enthusiast from Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dlanang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,19 +18,22 @@
   </a>
 </p>
 
+
 ## 🎯 About Me
 - 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
 - 💬 Ask me about **Tech, Frontend, Security, and more**
 - 📫 Reach me at **dhimaslnwork@gmail.com**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
+
 ## 🌟 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlanang&show_icons=true&theme=transparent" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dlanang&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=dlanang" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
 
 
 ## 🔠 Lang
@@ -41,18 +48,20 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
 </div>
 
-
+## 👨🏻‍💻 My Activity
+![Snake animation](https://raw.githubusercontent.com/Dlanang/Dlanang/output/github-contribution-grid-snake-dark.svg)
 
 ## ☕ Support My Work
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://www.buymeacoffee.com/zerobyteidn">
-    <img src="https://iconduck.com/icons/10899/buy-me-a-coffee.svg" alt="Buy Me a Coffee" width="140" />
-  </a>
-  <a href="https://trakteer.id/zerobyteidn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/TrakteerLogo.png" alt="Traktir Saya" width="140" />
-  </a>
+<div align="left">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+    <a href="https://trakteer.id/zerobyteidn">
+      <img src="img/trakteer.png" alt="Traktir Saya" style="max-width: 100%; height: auto;" />
+    </a>
+    <a href="https://www.buymeacoffee.com/zerobyteidn">
+      <img src="img/cofee.png" alt="Buy Me a Coffee" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
 </div>
 
-## 👨🏻‍💻 My Activity
-![Snake animation](https://raw.githubusercontent.com/Dlanang/Dlanang/output/github-contribution-grid-snake-dark.svg)
+
