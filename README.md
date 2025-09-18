@@ -5,7 +5,6 @@
 </div>
 
 <h3 align="center">A Passionate Frontend Developer & Cybersecurity Enthusiast from Indonesia</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dlanang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
@@ -15,6 +14,10 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhimaslanang/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/Dlanang">
+    <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4?style=flat&logo=github&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </p>
 
