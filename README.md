@@ -25,9 +25,8 @@
 ## 🎯 About Me
 - 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
 - 💬 Ask me about **Tech, Frontend, Security, and more**
-- 📫 Reach me at **dhimaslnwork@gmail.com**
+- 📫 Reach me at **Linkedin**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
-
 
 ## 🌟 GitHub Stats
 
@@ -37,20 +36,16 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
-
-
 ## 🔠 Lang
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60"
-  height="60"/>
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" title="Shell" width="60" height="60"/>
 </div>
+
 
 ## 👨🏻‍💻 My Activity
 ![Snake animation](https://raw.githubusercontent.com/Dlanang/Dlanang/output/github-contribution-grid-snake-dark.svg)
@@ -58,14 +53,12 @@
 ## ☕ Support My Work
 
 <div align="left">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-    <a href="https://trakteer.id/zerobyteidn">
-      <img src="img/trakteer.png" alt="Traktir Saya" style="max-width: 100%; height: auto;" />
-    </a>
-    <a href="https://www.buymeacoffee.com/zerobyteidn">
-      <img src="img/cofee.png" alt="Buy Me a Coffee" style="max-width: 100%; height: auto;" />
-    </a>
-  </div>
+  <a href="https://trakteer.id/zerobyteidn" target="_blank">
+    <img src="img/trakteer.png" alt="Traktir Saya di Trakteer" width="150"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/zerobyteidn" target="_blank">
+    <img src="img/cofee.png" alt="Buy Me a Coffee" width="150"/>
+  </a>
 </div>
 
 
