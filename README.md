@@ -41,16 +41,85 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## 🧰 Cybersecurity Tech Stack
+<div align="center">
 
-## 🔠 Lang
+### 💬 Programming & Scripting
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/><br>Bash
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/><br>C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><br>JavaScript
+    </td>
+  </tr>
+</table>
 
-<div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" title="Shell" width="60" height="60"/>
+
+### 🐧 Operating Systems & Environments
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/><br>Linux
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" height="55"/><br>Ubuntu Server
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="55" height="55"/><br>Arch Linux
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/OpenBSD-6.9-008080?style=flat-square" width="80" height="24"/><br>OpenBSD
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square&logo=microsoft" width="120" height="24"/><br>Active Directory
+    </td>
+  </tr>
+</table>
+
+
+### ⚙️ Tools & Frameworks
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55"/><br>Nginx
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br>VSCode
+    </td>
+  </tr>
+</table>
+
+
+### 🧩 Security, Monitoring & Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-0055A4?style=for-the-badge&logo=wazuh&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Suricata-DC143C?style=for-the-badge&logo=suricata&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlanang&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
 
 
 ## 👨🏻‍💻 My Activity
