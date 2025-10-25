@@ -31,10 +31,16 @@
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dlanang&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=dlanang" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=transparent" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dlanang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.vercel.app?user=dlanang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ## 🔠 Lang
 
