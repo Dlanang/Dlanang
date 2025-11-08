@@ -96,8 +96,15 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/><br>VSCode
     </td>
+    <td align="center">
+      <img src="https://static.cdnlogo.com/logos/o/94/oracle.svg" width="75" height="75"/><br>Oracle Cloud
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/R0JhY5zc/alibaba-cloud-logo.png" width="75" height="75"/><br>Alibaba Cloud
+    </td>
   </tr>
 </table>
+
 
 
 ### 🧩 Security, Monitoring & Analysis
