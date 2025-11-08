@@ -45,6 +45,7 @@
 <div align="center">
 
 ### 💬 Programming & Scripting
+<p align="center">Currently exploring and improving my skills in these languages and scripting:</p>
 <table>
   <tr>
     <td align="center">
