@@ -23,7 +23,7 @@
 
 
 ## 🎯 About Me
-- 🌱 I’m currently diving deep into **Cybersecurity & Frontend Development**
+- 🌱 I’m currently diving deep into **Cybersecurity**
 - 💬 Ask me about **Tech, Frontend, Security, and more**
 - 📫 Reach me at **Linkedin**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
@@ -67,25 +67,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" height="55"/><br>Ubuntu Server
+      <img src="https://i.postimg.cc/xdzG3mkc/ubuntusa.png" width="55" height="55"/><br>Ubuntu Server
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="55" height="55"/><br>Arch Linux
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/OpenBSD-6.9-008080?style=flat-square" width="80" height="24"/><br>OpenBSD
+      <img src="https://i.postimg.cc/5tRG6Lhf/openbsd.png" width="75" height="75"/><br>OpenBSD
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Active%20Directory-Microsoft-0078D4?style=flat-square&logo=microsoft" width="120" height="24"/><br>Active Directory
+      <img src="https://static.cdnlogo.com/logos/m/76/microsoft-windows-22.svg" width="55" height="55"/><br>Windows Server22
     </td>
   </tr>
 </table>
 
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools
 <table>
   <tr>
     <td align="center">
@@ -113,7 +110,28 @@
   <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-</div>
+### 👥 Community
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://ircnow.org/">
+        <img src="https://i.postimg.cc/L6KTCNk1/ircnow-logos.png" width="55" height="55"/>
+      </a><br>IRCNow
+    </td>
+    <td align="center">
+      <a href="https://imphnen.dev/">
+        <img src="https://i.postimg.cc/5tB1zPmF/imphnencut.png" width="55" height="55"/>
+      </a><br>Imphnen
+    </td>
+    <td align="center">
+      <a href="https://ctftime.org/team/402726">
+        <img src="https://i.postimg.cc/NMd38Z20/noctralupra.jpg" width="55" height="55"/>
+      </a><br>Noctra Lupra
+    </td>
+  </tr>
+</table>
+
+
 
 
 <p align="center">
