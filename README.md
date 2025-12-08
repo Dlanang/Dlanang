@@ -28,6 +28,13 @@
 - 📫 Reach me at **Linkedin**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
+<h3 align="center">Now i'm listen</h2>
+  <p align="center">
+  <a href="{{songURI}}">
+    <img src="https://novatorem-ruby-tau.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 ## 🌟 GitHub Stats
 
 <p align="center">
