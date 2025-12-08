@@ -32,13 +32,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dlanang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-five-56.vercel.app/api?username=dlanang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.vercel.app?user=dlanang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-five-56.vercel.app/api/top-langs/?username=dlanang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🧰 Cybersecurity Tech Stack
