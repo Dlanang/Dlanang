@@ -28,10 +28,13 @@
 - 📫 Reach me at **Linkedin**
 - ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
-<h3 align="center">Now i'm listen</h2>
-  <p align="center">
-  <a href="{{songURI}}">
-    <img src="https://novatorem-ruby-tau.vercel.app/api/spotify" alt="Spotify Now Playing" />
+<h3 align="center">Now I'm listening</h3>
+<p align="center">
+  <a href="https://novatorem-ruby-tau.vercel.app/redirect">
+    <img
+      src="https://novatorem-ruby-tau.vercel.app/api/orchestrator?v=2"
+      alt="Spotify Now Playing"
+    />
   </a>
 </p>
 
