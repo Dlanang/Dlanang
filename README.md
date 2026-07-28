@@ -30,9 +30,9 @@
 
 <h3 align="center">Now I'm listening</h3>
 <p align="center">
-  <a href="https://novatorem-ruby-tau.vercel.app/redirect">
+  <a href="https://open.spotify.com/">
     <img
-      src="https://novatorem-ruby-tau.vercel.app/api/orchestrator?v=2"
+      src="https://novatorem-ruby-tau.vercel.app/api/orchestrator?v=3"
       alt="Spotify Now Playing"
     />
   </a>
