@@ -31,27 +31,6 @@
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dhimaslanang/)
 * ⚡ Fun fact: **Some bugs are just misunderstood features!**
 
-## 🔐 Professional Focus
-
-* SOC Monitoring & Alert Triage
-* Threat Detection & Log Analysis
-* Vulnerability Assessment
-* Web Application Security Testing
-* Linux Server Hardening
-* Network Security Monitoring
-* Infrastructure Security
-* Security Automation & Scripting
-
-<h3 align="center">Currently Listening To</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img
-      src="https://novatorem-ruby-tau.vercel.app/api/orchestrator?v=3"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
 
 ## 🌟 GitHub Stats
 
